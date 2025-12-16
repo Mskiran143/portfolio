@@ -1,6 +1,6 @@
 export default function Skills() {
   const skills = [
-    "React", "JavaScript", "Node.js", "Tailwind CSS",
+    "React", "JavaScript", "Java", "Node.js", "Tailwind CSS",
     "REST APIs", "Git & GitHub", "Responsive Design",
     "MongoDB", "PostgreSQL"
   ];
